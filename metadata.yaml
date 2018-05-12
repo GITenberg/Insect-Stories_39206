@@ -1,0 +1,43 @@
+_repo: Insect-Stories_39206
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Shimada, Sekko
+    gutenberg_agent_id: '39896'
+    url: http://www.gutenberg.org/2009/agents/39896
+  - agent_name: Lanktree, Maud
+    gutenberg_agent_id: '39895'
+    url: http://www.gutenberg.org/2009/agents/39895
+  - agent_name: Wellman, Mary
+    gutenberg_agent_id: '39894'
+    url: http://www.gutenberg.org/2009/agents/39894
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kellogg, Vernon L. (Vernon Lyman)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '33942'
+    url: http://www.gutenberg.org/2009/agents/33942
+description: ''
+gutenberg_issued: '2012-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39206'
+  lccn: 08021773
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile literature'
+- !lcc 'QL'
+tableOfContents: A narrow-waisted mother -- Red and black against white -- The vendetta
+  -- The true story of the pit of Morrowbie Jukes -- Argiope of the silver shield
+  -- The orange-dwellers -- The Dragon of Lagunita -- A summer invasion -- A clever
+  little brown ant -- An hour of living; or, the dance of death -- In Fuzzy's glass
+  house -- Animated honey-jars -- Houses of oak.
+title: Insect Stories
+url: http://www.gutenberg.org/ebooks/39206
